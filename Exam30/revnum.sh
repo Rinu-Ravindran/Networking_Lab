@@ -1,4 +1,4 @@
-echo ente a number :
+echo enter a number :
 read a
 sum=0
 while [ $a -gt 0 ]
